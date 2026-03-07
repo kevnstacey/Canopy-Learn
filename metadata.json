@@ -1,0 +1,8 @@
+{
+  "name": "Canopy Learn LMS",
+  "description": "A standalone Learning & Readiness Management System. Prepare, verify, and certify learner readiness.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
