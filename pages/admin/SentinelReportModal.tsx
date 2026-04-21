@@ -1,5 +1,5 @@
 import React from 'react';
-import BaseModal from '../modals/BaseModal';
+import BaseModal from '../../components/modals/BaseModal';
 import Card from '../../components/Card';
 import { TrainerInsight, DriftIncident } from '../../types';
 
